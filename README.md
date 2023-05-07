@@ -1,5 +1,5 @@
 # 💫 About Me:
-I just completed the Digital Crafts Full-Stack Web Development Bootcamp!<br>I am currently a middle school orchestra director, looking to transition out of teaching.<br>I love embroidery, reading fantasy novels, and hiking.
+As a transitioning teacher with a newfound passion for technology, I am eager to bring my diverse skill set to a career in the field. With completion of the Digital Crafts Bootcamp in December of 2022, I have acquired a solid foundation in various programming languages and frameworks. The skills I honed through teaching, such as adaptability, communication, and teamwork, have prepared me well for a fast-paced and collaborative environment. I am a quick learner with a growth mindset, and am excited to continue expanding my knowledge and skill set in order to contribute as a dependable team member. I am enthusiastic about the prospect of utilizing my background and dedication to add value to a tech team.<br>I love embroidery, reading fantasy novels, and hiking.
 
 
 ## 🌐 Socials:
